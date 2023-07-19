@@ -1,4 +1,5 @@
-### Links
+### All
+Doesn't Include CDN
 - [nate-games.github.io](https://nate-games.github.io/)
 - [nate-games.vercel.app](https://nate-games.vercel.app)
 - [learn-science.vercel.app](https://learn-science.vercel.app/)
