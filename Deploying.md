@@ -2,7 +2,6 @@ If you do this, I really appreciate it! 🙏
 
 If you have deployed it on one of these services send me the link [Here](https://docs.google.com/forms/d/e/1FAIpQLSeHFEk4rR1r98SnzdBStOPvv4zAr2OG-RkuajaafaFumVeHlQ/viewform)
 
-If you don't you won't be able to continue to the website due to reCAPTCHA
 ### Free services
 These are the only ones supported by nate-games, other ones will not work. You can use GitHub pages too.
 
