@@ -13,8 +13,3 @@ Subdomains they are changed every update so it is not recommended if you want to
 - [eca1650b.cf-nate.pages.dev](https://eca1650b.cf-nate.pages.dev/)
 - [2aa78ede.cf-nate.pages.dev](https://2aa78ede.cf-nate.pages.dev)
 - [adabf272.cf-nate.pages.dev](https://adabf272.cf-nate.pages.dev/)
-
-### CDN [Content Delivery Network]
-Not for the public it is used for a few games like Geometry Dash because I do not want to leak the source code or is too large to fit in the main repository.
-- [cdn-ngs.vercel.app](https://cdn-ngs.vercel.app/)
-- [cdn-ngs.pages.dev](https://cdn-ngs.pages.dev/)
