@@ -1,6 +1,6 @@
 If you do this, I really appreciate it! 🙏
 
-If you have deployed it and have a link send me the link [Here](https://docs.google.com/forms/d/e/1FAIpQLSeHFEk4rR1r98SnzdBStOPvv4zAr2OG-RkuajaafaFumVeHlQ/viewform) so it can be added to the list of URLS.
+If you have deployed it and have a link send me the link [Here](https://forms.gle/pQhegBjkqFprPoSY7) so it can be added to the list of URLS.
 
 ### Free services
 These are the only ones supported by nate-games, other ones will not work. You can use GitHub pages too.
