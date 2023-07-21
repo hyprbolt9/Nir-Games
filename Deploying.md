@@ -1,6 +1,6 @@
 If you do this, I really appreciate it! 🙏
 
-If you have deployed it and have a link send me the link [Here](https://forms.gle/pQhegBjkqFprPoSY7) so it can be added to the list of URLS.
+If you have deployed it and have a link send me the link [Here](https://github.com/nate-games/nate-games.github.io/issues/new/choose) so it can be added to the list of URLS.
 
 ### Free services
 These are the only ones supported by nate-games, other ones will not work. You can use GitHub pages too.
