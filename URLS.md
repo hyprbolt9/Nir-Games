@@ -6,3 +6,4 @@ All Blocked? [View Deploying](https://github.com/nate-games/nate-games.github.io
 - [math-edu.vercel.app](https://math-edu.vercel.app/)
 - [sites.google.com](https://sites.google.com/view/nates-unblocked)
 - [cf-nate.pages.dev](https://cf-nate.pages.dev/)
+- Want more? Join the [Discord](https://discord.gg/9mJcqwZ2a5)
