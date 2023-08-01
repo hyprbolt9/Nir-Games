@@ -1,3 +1,4 @@
+Frequently Asked Question(s)
 ## What is nate-games?
 Summary: [Appears on Google, Bing, Yahoo Search.]
 
@@ -13,9 +14,7 @@ So, gear up for an unforgettable journey through the vast realm of unblocked gam
 
 I continuously update our selection of unblocked games, striving to bring you the latest and greatest in the world of online gaming. Our team is committed to providing a secure and enjoyable gaming environment for all users, so you can focus on what matters most – having fun!
 
-
-## How can I
-### Report a bug?
+### How do I Report a bug?
 Go to Issues, New issue, select a template, fill out the form.
 
 ### Reach out?
