@@ -14,11 +14,11 @@ So, gear up for an unforgettable journey through the vast realm of unblocked gam
 
 I continuously update our selection of unblocked games, striving to bring you the latest and greatest in the world of online gaming. Our team is committed to providing a secure and enjoyable gaming environment for all users, so you can focus on what matters most – having fun!
 
-### How do I Report a bug?
+## How do I Report a bug?
 Go to [Issues](https://github.com/nate-games/nate-games.github.io/issues), New issue, select a template, fill out the form.
 
 New to GitHub? An issue is a built in form like google forms that is built in to every repository 
 
-### How can I Reach out?
+## How can I Reach out?
 If you reach out to me a notification is sent to my phone.
 Email: reprint.cap.0v@icloud.com, icloud+ [this is randomly generated using hide my email]
