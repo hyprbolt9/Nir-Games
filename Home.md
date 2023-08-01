@@ -4,7 +4,7 @@ Here you can find; [Deploying](https://github.com/nate-games/nate-games.github.i
 You can use the sidebar to navigate.
 
 
-## Features
+<h2>Features</h2>
 nate-games basic & advanced features:
 - 190+ games & apps
 - Search bar
