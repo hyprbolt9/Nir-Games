@@ -9,3 +9,4 @@ All Blocked? [View Deploying](https://github.com/nate-games/nate-games.github.io
 ### Temporary Links
 These are updated **EVERY** update (Bug fixes included), not recommended for saving your data.
 - [0f46df8f.cf-nate.pages.dev](https://0f46df8f.cf-nate.pages.dev/)  ~ v1.51
+- [61587243.cf-nate.pages.dev](https://61587243.cf-nate.pages.dev/)  ~ v1.51
