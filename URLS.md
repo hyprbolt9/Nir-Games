@@ -8,4 +8,4 @@ All Blocked? [View Deploying](https://github.com/nate-games/nate-games.github.io
 - [cf-nate.pages.dev](https://cf-nate.pages.dev/)
 ### Temporary Links
 These are updated **EVERY** update (Bug fixes included), not recommended for saving your data.
-- [e95638ef.cf-nate.pages.dev](https://e95638ef.cf-nate.pages.dev/)
+- [e95638ef.cf-nate.pages.dev](https://e95638ef.cf-nate.pages.dev/)  ~ v1.51
