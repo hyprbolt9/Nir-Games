@@ -6,4 +6,4 @@ All Blocked? [View Deploying](https://github.com/nate-games/nate-games.github.io
 - [math-edu.vercel.app](https://math-edu.vercel.app/)
 - [sites.google.com](https://sites.google.com/view/nates-unblocked)
 - [cf-nate.pages.dev](https://cf-nate.pages.dev/)
-- [translate.google.com](https://translate.google.com/?sl=auto&tl=en&op=websites) _Translate any URL_
+- [translate.google.com](https://translate.google.com/?sl=auto&tl=en&op=websites) _Translate any URL works on other websites but buggy_
