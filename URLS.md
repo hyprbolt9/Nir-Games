@@ -6,9 +6,3 @@ All Blocked? [View Deploying](https://github.com/nate-games/nate-games.github.io
 - [math-edu.vercel.app](https://math-edu.vercel.app/)
 - [sites.google.com](https://sites.google.com/view/nates-unblocked)
 - [cf-nate.pages.dev](https://cf-nate.pages.dev/)
-### Temporary Links
-These are updated **EVERY** update (Bug fixes included), not recommended for saving your data.
-- [3efe4d34.cf-nate.pages.dev](https://3efe4d34.cf-nate.pages.dev/)
-- [0f46df8f.cf-nate.pages.dev](https://0f46df8f.cf-nate.pages.dev/)
-- [52c6fd6a.cf-nate.pages.dev](https://52c6fd6a.cf-nate.pages.dev/)
-- [61587243.cf-nate.pages.dev](https://61587243.cf-nate.pages.dev/)
