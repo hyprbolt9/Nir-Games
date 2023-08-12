@@ -6,5 +6,5 @@ Dependencies:
 ***
 make sure [git-scm](https://git-scm.com/downloads) "--everyting is local" is installed
 
-## Coding?
+## Coding OS
 If you are coding on a device other than MacOS, Linux OS, Windows OS. You can [Open](https://vscode.dev/github/nate-games/nate-games.github.io) this repository with Visual Studio Code [web version]
