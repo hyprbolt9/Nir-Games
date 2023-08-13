@@ -1,4 +1,4 @@
-Fun fact: Did you know nate-games used to be called future-bit.github.io, & before that was n-jramirez.github.io
+Fun fact: Did you know nate-games.github.io used to be called future-bit.github.io, & before that was n-jramirez.github.io
 ## Cloning Locally
 ```bash
 https://github.com/nate-games/nate-games.github.io.git
