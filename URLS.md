@@ -7,5 +7,5 @@ All Blocked? [View Deploying](https://github.com/nate-games/nate-games.github.io
 - [math-edu.vercel.app](https://math-edu.vercel.app/)
 - [sites.google.com](https://sites.google.com/view/nates-unblocked)
 - [cf-nate.pages.dev](https://cf-nate.pages.dev/)
-- https://64mssn-5000.csb.app
+- [64mssn-5000.csb.app](https://64mssn-5000.csb.app)
 - [translate.google.com](https://translate.google.com/?sl=auto&tl=en&op=websites) _Translate any URL, works on other websites but most are buggy_
