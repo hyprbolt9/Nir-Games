@@ -1,4 +1,4 @@
-# Deploying
+## Services
 If you have deployed one & have a link send me the link on the [issue tab](https://github.com/nate-games/nate-games.github.io/issues/new/choose) so it can be added to the list of URLS, appreciate it! 🙏
 
 ### Free services
