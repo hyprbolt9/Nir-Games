@@ -3,6 +3,7 @@ All Blocked? [View Deploying](https://github.com/nate-games/nate-games.github.io
 Ordered (Fastest to Slowest)
 - [nate-games.pages.dev](https://nate-games.pages.dev)
 - [cf-nate.pages.dev](https://cf-nate.pages.dev)
+- [nate-games.netlify.app](https://nate-games.netlify.app/)
 - [nate-games.github.io](https://nate-games.github.io)
 - [cloud-nate-games.github.io](https://cloud-nate-games.github.io)
 - [nate-games.vercel.app](https://nate-games.vercel.app)
