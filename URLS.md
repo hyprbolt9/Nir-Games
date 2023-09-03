@@ -6,7 +6,6 @@ Ordered (Fastest to Slowest)
 - [nate-games.netlify.app](https://nate-games.netlify.app/)
 - [nate-games.github.io](https://nate-games.github.io)
 - [nate-games.vercel.app](https://nate-games.vercel.app)
-
 - [translate.google.com](https://translate.google.com/?sl=auto&tl=en&op=websites) _Translate any URL, works on other websites but most are buggy_
 
 ### Outdated
