@@ -1,6 +1,7 @@
 All Blocked? [View Deploying](https://github.com/nate-games/nate-games.github.io/wiki/Deploying)
 ### Links
 Ordered (Fastest to Slowest)
+- [nate-games.com](http://nate-games.com)
 - [nate-games.pages.dev](https://nate-games.pages.dev)
 - [cf-nate.pages.dev](https://cf-nate.pages.dev)
 - [nate-games.netlify.app](https://nate-games.netlify.app/)
