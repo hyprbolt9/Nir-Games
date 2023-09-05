@@ -4,7 +4,7 @@ Fun fact: Did you know nate-games.github.io used to be called future-bit.github.
 https://github.com/nate-games/nate-games.github.io.git
 ``` 
 **Dependencies:**
-> make sure [git-scm](https://git-scm.com/downloads) is installed
+> make sure [git](https://git-scm.com/downloads) is installed
 
 ## Coding on OS
 ... _OS means Operating System_...
