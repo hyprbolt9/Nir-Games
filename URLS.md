@@ -8,6 +8,7 @@ Ordered (Fastest to Slowest)
 - [nate-games.github.io](https://nate-games.github.io)
 - [nate-gamesCom.github.io](https://nate-gamesCom.github.io)
 - [ahlyia.github.io](http://ahlyia.github.io)
+- [nate-games.neocities.org](http://nate-games.neocities.org)
 - [beachysucks.github.io](http://beachysucks.github.io)
 - [nate-games.vercel.app](https://nate-games.vercel.app)
 - [translate.google.com](https://translate.google.com/?sl=auto&tl=en&op=websites) _Translate any URL, works on other websites but most are buggy_
