@@ -13,8 +13,6 @@ Ordered (Fastest to Slowest)
 - [nate-games.vercel.app](https://nate-games.vercel.app)
 - [translate.google.com](https://translate.google.com/?sl=auto&tl=en&op=websites) _Translate any URL, works on other websites but most are buggy_
 
-### Temp
-- https://9fh48d-5000.csb.app/
 ### Outdated
 - [math-edu.vercel.app](https://math-edu.vercel.app/)
 - [learn-science.vercel.app](https://learn-science.vercel.app/)
