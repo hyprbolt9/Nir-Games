@@ -12,8 +12,6 @@ Ordered (Fastest to Slowest)
 ### Outdated
 - [nate-games.pages.dev](https://nate-games.pages.dev)
 - [nate-games.com](http://nate-games.com)
-- [math-edu.vercel.app](https://math-edu.vercel.app/)
-- [learn-science.vercel.app](https://learn-science.vercel.app/)
 - [ahlyia.github.io](http://ahlyia.github.io)
 - [beachysucks.github.io](http://beachysucks.github.io)
 
