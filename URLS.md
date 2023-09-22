@@ -1,21 +1,21 @@
 All Blocked? [View Deploying](https://github.com/nate-games/nate-games.github.io/wiki/Deploying)
+- [translate.google.com](https://translate.google.com/?sl=auto&tl=en&op=websites) _Translate any URL, works on other websites but most are buggy_
 ### Links
 Ordered (Fastest to Slowest)
-- [nate-games.com](http://nate-games.com)
-- [nate-games.pages.dev](https://nate-games.pages.dev)
 - [nate-games.netlify.app](https://nate-games.netlify.app/)
 - [nate-games.on.fleek.co](http://nate-games.on.fleek.co)
 - [nate-games.github.io](https://nate-games.github.io)
 - [nate-gamesCom.github.io](https://nate-gamesCom.github.io)
-- [ahlyia.github.io](http://ahlyia.github.io)
 - [nate-games.neocities.org](http://nate-games.neocities.org)
-- [beachysucks.github.io](http://beachysucks.github.io)
 - [nate-games.vercel.app](https://nate-games.vercel.app)
-- [translate.google.com](https://translate.google.com/?sl=auto&tl=en&op=websites) _Translate any URL, works on other websites but most are buggy_
 
 ### Outdated
+- [nate-games.pages.dev](https://nate-games.pages.dev)
+- [nate-games.com](http://nate-games.com)
 - [math-edu.vercel.app](https://math-edu.vercel.app/)
 - [learn-science.vercel.app](https://learn-science.vercel.app/)
+- [ahlyia.github.io](http://ahlyia.github.io)
+- [beachysucks.github.io](http://beachysucks.github.io)
 
 ### Embedded Mirrors
 Data URL (Encoded with base64), copy and paste in a new tab
