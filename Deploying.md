@@ -12,7 +12,7 @@ These are the only ones supported by nate-games, other ones will not work. You c
 
 <a href="https://railway.app/new/template?template=https://github.com/nate-games/nate-games.github.io"><img src="https://camo.githubusercontent.com/44adf65830f9eeecb9a8e4ab0ff42c4675ca5fac750f0ec923abb86d0d8bedd1/68747470733a2f2f62696e6261736862616e616e612e6769746875622e696f2f6465706c6f792d627574746f6e732f627574746f6e732f72656d6164652f7261696c7761792e737667" alt="Railway" /></a>
 
-### Deploying with CloudFlare Pages
+### Cloudflare Pages
 How to deploy nate-games to cloudflare pages (Since cloudflare hasn't made a button yet)
 
 **Prerequisites:**
