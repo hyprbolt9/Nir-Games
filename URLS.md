@@ -5,7 +5,6 @@ Ordered (Fastest to Slowest)
 - [nate-games.netlify.app](https://nate-games.netlify.app/)
 - [nate-games.on.fleek.co](http://nate-games.on.fleek.co)
 - [nate-games.github.io](https://nate-games.github.io)
-- [nate-gamesCom.github.io](https://nate-gamesCom.github.io)
 - [nate-games.neocities.org](http://nate-games.neocities.org)
 - [nate-games.vercel.app](https://nate-games.vercel.app)
 
