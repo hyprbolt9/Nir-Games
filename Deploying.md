@@ -13,5 +13,35 @@ These are the only ones supported by nate-games, other ones will not work. You c
 <a href="https://railway.app/new/template?template=https://github.com/nate-games/nate-games.github.io"><img src="https://camo.githubusercontent.com/44adf65830f9eeecb9a8e4ab0ff42c4675ca5fac750f0ec923abb86d0d8bedd1/68747470733a2f2f62696e6261736862616e616e612e6769746875622e696f2f6465706c6f792d627574746f6e732f627574746f6e732f72656d6164652f7261696c7761792e737667" alt="Railway" /></a>
 
 ## Deploying with CloudFlare Pages
+How to deploy nate-games to cloudflare pages (Since cloudflare hasn't made a button yet)
 
-First fork this GitHub repository, then go to [dash.cloudflare.com](https://dash.cloudflare.com/) on the navigation bar, click on "Workers & Pages", Create Application, Select Pages, Connect to Git, look for the repository you forked, then press begin setup, give it a project name, press "Save and Deploy" after a few minutes the site should be ready at `PROJECTNAME.pages.dev`
+**Prerequisites:**
+1. A Cloudflare account.
+2. Fork nate-games
+
+**Step 1: Create a Cloudflare Pages Project**
+1. Log in to your Cloudflare account.
+2. Once logged in, navigate to the Cloudflare dashboard.
+
+**Step 2: Create a New Pages Project**
+1. Click on the "Pages" icon in the dashboard.
+2. Click the "Create a project" button.
+
+**Step 3: Configure the Project Settings**
+1. In the "Connect to GitHub" section, click the "Connect to GitHub" button.
+2. Follow the prompts to authenticate and authorize Cloudflare to access your GitHub account.
+3. After authorization, select the GitHub repository where your website nate-games; code is hosted.
+
+**Step 4: Configure Build Settings**
+1. Since nate-games v1 is already set up as a static site, you don't need to specify a build command or directory. Leave these fields empty.
+2. Click the "Save and continue" button.
+
+**Step 5: Deploy the Website**
+1. Click the "Deploy site" button.
+2. Cloudflare Pages will automatically deploy your website from the selected GitHub repository.
+
+**Step 6: Access the Deployed Website**
+1. Once the deployment is complete, Cloudflare Pages will provide you with a temporary URL (e.g., `your-site.pages.dev`).
+
+**Step 7: Keeping Your Site Unblocked (Optional)**
+1. Thankfully, Cloudflare Pages provides another temporary URL (e.g., `example.your-site.pages.dev`) as a means to access older commits and, of course, to keep your site unblocked.
