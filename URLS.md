@@ -3,6 +3,7 @@ All Blocked? [View Deploying](https://github.com/nate-games/nate-games.github.io
 ### Links
 Ordered (Fastest to Slowest)
 - [nate-games.netlify.app](https://nate-games.netlify.app/)
+- [nate-games.xyz](https://nate-games.xyz)
 - [nate-games.on.fleek.co](http://nate-games.on.fleek.co)
 - [nate-games.github.io](https://nate-games.github.io)
 - [nate-games.neocities.org](http://nate-games.neocities.org)
