@@ -9,7 +9,6 @@ Ordered (Fastest to Slowest)
 - [nate-games.neocities.org](http://nate-games.neocities.org)
 - [nate-games.vercel.app](https://nate-games.vercel.app)
 - [cdn.nate-games.xyz](https://cdn.nate-games.xyz)
-- [img.nate-games.xyz](https://img.nate-games.xyz)
 - [cdn-ngs.pages.dev](https://cdn-ngs.pages.dev)
 
 ### Outdated
