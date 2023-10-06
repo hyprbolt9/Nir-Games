@@ -2,17 +2,17 @@ All Blocked? [View Deploying](https://github.com/nate-games/nate-games.github.io
 - [translate.google.com](https://translate.google.com/?sl=auto&tl=en&op=websites) _Translate any URL, works on other websites but most are buggy_
 ### Links
 Ordered (Fastest to Slowest)
-- [nate-games.netlify.app](https://nate-games.netlify.app/)
 - [nate-games.xyz](https://nate-games.xyz)
+- [nates-cdn.pages.dev](https://nates-cdn.pages.dev)
+- [nate-games.netlify.app](https://nate-games.netlify.app/)
+- [nate-games.com](http://nate-games.com)
+- [nate-games.pages.dev](https://nate-games.pages.dev)
 - [nate-games.on.fleek.co](http://nate-games.on.fleek.co)
 - [nate-games.github.io](https://nate-games.github.io)
-- [nate-games.neocities.org](http://nate-games.neocities.org)
 - [nate-games.vercel.app](https://nate-games.vercel.app)
-- [nates-cdn.pages.dev](https://nates-cdn.pages.dev)
 - [cdn.nate-games.xyz](https://cdn.nate-games.xyz)
 - [cdn-ngs.pages.dev](https://cdn-ngs.pages.dev)
-- [nate-games.pages.dev](https://nate-games.pages.dev)
-- [nate-games.com](http://nate-games.com)
+
 - [beachysucks.github.io](http://beachysucks.github.io)
 
 ### Embedded Mirrors
