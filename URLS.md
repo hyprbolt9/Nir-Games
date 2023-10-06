@@ -9,15 +9,10 @@ Ordered (Fastest to Slowest)
 - [nate-games.neocities.org](http://nate-games.neocities.org)
 - [nate-games.vercel.app](https://nate-games.vercel.app)
 - [nates-cdn.pages.dev](https://nates-cdn.pages.dev)
-
-**CDN**
 - [cdn.nate-games.xyz](https://cdn.nate-games.xyz)
 - [cdn-ngs.pages.dev](https://cdn-ngs.pages.dev)
-
-**Outdated**
 - [nate-games.pages.dev](https://nate-games.pages.dev)
 - [nate-games.com](http://nate-games.com)
-- [ahlyia.github.io](http://ahlyia.github.io)
 - [beachysucks.github.io](http://beachysucks.github.io)
 
 ### Embedded Mirrors
